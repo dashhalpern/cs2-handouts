@@ -1,4 +1,4 @@
-Git is very powerful.  Don't try to learn everything that it can do
+Git is scary powerful.  Don't try to learn everything that it can do
 all at once.  The 5 steps below should be enough in this class, for
 projects where I create the template, and you work alone.
 
@@ -7,3 +7,5 @@ projects where I create the template, and you work alone.
 - commit changes - `git commit -a` - opens editor for a description of the changes
 - push - `git push` - copy changes back to Github
 - pull - `git pull` - If you've made changes from another computer since you were at this one.
+
+
